@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "name": "jwt_authentication",
+  "version": "1.0.0",
+  "description": "This is a jwt authentication api",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhdao/JWT_authentication.git"
+  },
+  "author": "nhdao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhdao/JWT_authentication/issues"
+  },
+  "homepage": "https://github.com/nhdao/JWT_authentication#readme"
+}
