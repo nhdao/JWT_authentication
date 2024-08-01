@@ -12,7 +12,8 @@
   "description": "This is a jwt authentication api",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "devAuth": "nodemon authServer.js"
   },
   "repository": {
     "type": "git",
